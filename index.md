@@ -45,6 +45,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Bowdoin College](#bowdoin) - December 15, 2020
 - [University of Mary Washington](#umw) - December 31, 2020
 - [Southwestern University](#su) - January 4, 2021
+- [Bard College](#bard) - January 7, 2021
 - [Colorado College](#colorado) - Open until filled
 - [Milwaukee School of Engineering](#msoe) - Applications Evaluated on a Rolling Basis
 - [Westmont College](#westmont) - Applications Evaluated on a Rolling Basis
@@ -52,6 +53,12 @@ _Deadlines are interpreted differently depending on the institution. See their f
 
 
 ## Descriptions, Links, and Locations (alphabetical order)
+
+## <a name="bard">Bard College (NY)</a>
+_[Excerpt]  Bard College invites applications for a full-time, two-year position in computer science at the rank of visiting assistant professor to begin fall 2021. Applications are sought in all areas of computing, with special emphasis on expanding computing’s interdisciplinary footprint throughout the college’s four divisions: Arts, Language & Literature, Social Studies, and Science, Mathematics & Computing. The successful candidate will have a commitment to quality, equitable, inclusive undergraduate teaching at a liberal arts college; maintaining an active research program or digital artistic practice; contributing to the general education curriculum; and engaging with the diverse college community. Candidates should have a terminal degree in their discipline (e.g, Ph.D. in Computer Science, Applied Mathematics, Computational Science or Social Science, Digital Humanities, or MFA) or be nearing its completion by September of 2021.
+
+- Review of applications will begin **January 7, 2021**
+- [Link to application](https://www.bard.edu/employment/descriptions/?id=2496208)
 
 ## <a name="bowdoin">Bowdoin College (Maine)</a>
 _[Excerpt] Bowdoin College’s Computer Science Department invites applications for a tenure-track position at the rank of Assistant Professor to begin July 1, 2021. We seek applications from all areas of computer science, including interdisciplinary fields. Bowdoin is seeking a colleague with a strong commitment to research and a promise of long-term successful scholarly engagement as well as a dedication to teaching excellence in a liberal arts environment. The position comes with generous research support including startup funding, a fully-funded, year-long junior sabbatical leave (after three years of teaching and successful reappointment), regular post-tenure sabbaticals, as well as conference and travel support. Bowdoin also provides robust assistance in securing funding from outside agencies._
